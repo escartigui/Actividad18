@@ -44,3 +44,4 @@ boton_restar.pack(pady = 5)
 boton_sumar = tk.Button(ventana, text="Sumar", command=sumar)
 boton_sumar.pack(pady = 5)
 ventana.mainloop()
+#para entenderlo lo hice con funciones, ahora lo hare con metodos
