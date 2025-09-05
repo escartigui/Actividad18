@@ -70,3 +70,4 @@ if __name__ == "__main__":
     app = Calculadora(root)
     root.mainloop()
 
+#ya mucho mejor jajajaja
